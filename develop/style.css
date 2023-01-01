@@ -1,0 +1,50 @@
+.custom-high-scores{
+   color: rgb(172, 107, 118);
+   text-decoration: none;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.quiz-start , .high-scores {
+    text-align: center;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    border: white;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+ul button {
+    text-align: left;
+    background-color: purple;
+    color: white;
+    border: white;
+    padding: 5px;
+    margin: 2px;
+    border-radius: 5px;
+    min-width: 200px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(172, 107, 118);
+}
+
+.ul-no-bullets {
+    list-style-type: none; 
+    padding: 0; 
+  }
+
+.question {
+    text-align: center;
+}
