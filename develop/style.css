@@ -10,7 +10,7 @@ nav {
     padding: 10px;
 }
 
-.quiz-start , .high-scores {
+#quiz-start , #high-scores {
     text-align: center;
 }
 
